@@ -1,0 +1,11 @@
+{
+	"name": "a-team-extensions",
+	"title": "a-team-extensions",
+	"version": "1.0.0",
+	"description": "A-Team Contributed Extensions",
+	"homepage": "",
+	"icon": "",
+	"bundledPlugins": {
+		"hello-world-plugin": "file:hello-world-plugin"
+	}
+}
